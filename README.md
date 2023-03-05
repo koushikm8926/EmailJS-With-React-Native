@@ -65,6 +65,16 @@ expo start
 ## Demo
 
 
+
+
+
+
+https://user-images.githubusercontent.com/84120351/222952071-b67e4778-1f7b-493c-ab7e-6900dd0552eb.mp4
+
+
+
+
+
 ## Contributing
 
 1. Fork it (<https://github.com/yourname/yourproject/fork>)
